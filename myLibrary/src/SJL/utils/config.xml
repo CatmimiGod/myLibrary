@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<network>
+		<port>2000</port>
+		<address>192.168.1.117</address>
+		<demoName>OS2</demoName>
+	</network>
+	
+	<swfURL>
+		<url>swf/P2.swf</url>
+		<url>swf/P3.swf</url>
+		<url>swf/P4.swf</url>
+		<url>swf/P5.swf</url>
+		<url>swf/P6.swf</url>
+		<url>swf/P7.swf</url>
+	</swfURL>
+	
+	<swfURL2>
+		<url>swf/P2.swf</url>
+		<url>swf/P3.swf</url>
+		<url>swf/P4.swf</url>
+		<url>swf/P5.swf</url>
+		<url>swf/P6.swf</url>
+		<url>swf/P7.swf</url>
+	</swfURL2>
+	
+	<videoURL>
+		<url>video/0.mp4</url>
+	</videoURL>
+	
+	<numURL>
+		<url>60</url>
+	</numURL>
+	
+	<stage>
+		<!--exactFit ,noBorder , noScale, showAll-->
+		<scaleMode>showAll</scaleMode>
+		<!--fullScreen,fullScreenInteractive,normal-->
+		<displayState>normal</displayState>
+	</stage>
+	
+</data>
